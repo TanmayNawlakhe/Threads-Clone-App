@@ -18,7 +18,7 @@ import '../globals.css'
         <ClerkProvider>
         <html lang = "en">
             <body className={` bg-dark-1 ${inter.className}`}>
-                <div className="h-full ">
+                <div className="h-full w-full flex justify-center items-center ">
 
                 
                 {children}
